@@ -1,0 +1,18 @@
+type HttpHeader = record { value : text; name : text };
+type HttpResponse = record {
+  status : nat;
+  body : vec nat8;
+  headers : vec HttpHeader;
+};
+type Result = variant { Ok; Err : text };
+type Result_1 = variant { Ok : nat16; Err : text };
+type Result_2 = variant { Ok : text; Err : text };
+type TransformArgs = record { context : vec nat8; response : HttpResponse };
+service : {
+  finalize_secret_with_email : (text, text) -> (Result);
+  get_dkim : (text) -> (text);
+  get_otp : (text) -> (Result_1);
+  register_email : (text) -> (Result_1);
+  retrieve_secret : (text) -> (Result_2);
+  transform : (TransformArgs) -> (HttpResponse) query;
+}

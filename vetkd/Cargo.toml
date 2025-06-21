@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "src/system_api",
+    "src/app_backend",
+    "src/dkim"
+]
