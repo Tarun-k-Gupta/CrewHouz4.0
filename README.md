@@ -1,4 +1,4 @@
-# Secret Recovery Protocol Using ICP .
+# Recover Vault Protocol Using ICP .
 So if you haven’t notice , there isn’t a forget password button in web3 yet, and if there is it’s usually centralised
 and trusted provider giving that service . But what if that wasn’t the case ? What if we could have a
 decentralised trustless wallet recovery system powered by smart contracts ? Well this is what i propose here 
