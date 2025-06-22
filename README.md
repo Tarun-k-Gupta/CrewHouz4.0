@@ -30,10 +30,12 @@ Hence we can now have wallet recovery mechanism
 
 ## DEMO !
 Click to view video
-[![Demo Quick Video ](https://cdn.loom.com/sessions/thumbnails/de6b021b71e04e5ea4bc082b7ae832a5-with-play.gif)](https://www.loom.com/share/de6b021b71e04e5ea4bc082b7ae832a5)
+[![Demo Quick Video ](https://youtu.be/Bc1x_d5B6ro)
 
 ## Link
-https://poetic-figolla-c04a19.netlify.app/
-
+Backend canister via Candid interface:
+    app_backend: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=ckuxw-iiaaa-aaaac-awwfq-cai
+    dkim: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=c7tg3-jaaaa-aaaac-awwga-cai
+    system_api: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=cysap-eyaaa-aaaac-awwgq-cai
 
 
