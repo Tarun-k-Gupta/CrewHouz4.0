@@ -3,10 +3,10 @@ So if you haven’t notice , there isn’t a forget password button in web3 yet,
 and trusted provider giving that service . But what if that wasn’t the case ? What if we could have a
 decentralised trustless wallet recovery system powered by smart contracts ? Well this is what i propose here 
 
-# Problem it solves
+## Problem it solves
 The Web3 Recovery Crisis Web3's foundational security model creates a critical user experience flaw: unlike traditional systems, wallets force users to memorize irreplaceable seed phrases with no true "forgot password" alternative. Lose your phrase, and your assets are permanently lost. Current recovery "solutions" like Near and TON wallets attempt to bridge this gap but function as centralized honeypots – as demonstrated by Near's 2021 breach where compromised email servers led to thousands of drained wallets. Alternative approaches like MPC wallets reintroduce trusted operators (making them partially custodial), while social recovery mechanisms depend on friends or DAOs, sacrificing both scalability and privacy. This creates an unacceptable trade-off: users must choose between absolute self-custody (with permanent loss risks) or recoverability (with centralized vulnerabilities). Our protocol shatters this compromise by enabling truly decentralized recovery – delivering both ironclad self-custody and seamles
 
-# Project Decription
+## Project Decription
 A decentralized, non-custodial wallet recovery protocol built on the Internet Computer (ICP). It uses DKIM email signatures and smart contracts to let users securely recover lost seed phrases via their own email—without trusting any third party.
 
 ## Current Solutions 
