@@ -36,7 +36,7 @@ Hence we can now have wallet recovery mechanism
 
 ## DEMO !
 Click to view video
-[![Demo Quick Video ](https://youtu.be/Bc1x_d5B6ro)
+[![Demo Quick Video ](https://youtu.be/Bc1x_d5B6ro)]
 
 ## Link
 Backend canister via Candid interface:
