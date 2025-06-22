@@ -1,4 +1,4 @@
-Delivered-To: dipanshuhappy@gmail.com
+Delivered-To: jigyasatata@gmail.com
 Received: by 2002:a05:6f02:8290:b0:62:9019:eddd with SMTP id j16csp823982rcd;
         Fri, 19 Jan 2024 13:13:28 -0800 (PST)
 X-Received: by 2002:a1f:e001:0:b0:4ba:4a6f:5b11 with SMTP id x1-20020a1fe001000000b004ba4a6f5b11mr345432vkg.23.1705698808068;
@@ -28,7 +28,7 @@ ARC-Authentication-Results: i=1; mx.google.com;
 Return-Path: <genx.india4759@gmail.com>
 Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
         by mx.google.com with SMTPS id w187-20020a1fc6c4000000b004b7256d89fasor3807329vkf.8.2024.01.19.13.13.27
-        for <dipanshuhappy@gmail.com>
+        for <jigyasatata@gmail.com>
         (Google Transport Security);
         Fri, 19 Jan 2024 13:13:28 -0800 (PST)
 Received-SPF: pass (google.com: domain of genx.india4759@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
